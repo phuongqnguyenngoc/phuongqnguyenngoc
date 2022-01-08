@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### 👨🏻‍💻  About Me
+###  About Me
 🎓  I'm pursuing a major in Computer Science and minor in Economics at the Colby College, ME, USA
     I'm also a visiting student at the University of Oxford, majoring in Computer Science
 
