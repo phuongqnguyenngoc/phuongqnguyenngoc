@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ###  About Me
-🎓  I'm pursuing a major in Computer Science and minor in Economics at the Colby College, ME, USA
-    I'm also a visiting student at the University of Oxford, majoring in Computer Science
+🎓  I'm pursuing a major in Computer Science and minor in Economics at the Colby College, ME, USA. I'm also a visiting student at the University of Oxford, majoring in Computer Science
 
 🇻🇳  I'm from Hanoi, Vietnam 
 
