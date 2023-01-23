@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 😄  My pronouns are she/her/hers
 
-🌱  I’m interested in data analysis, devops engineering, and machine learning.
+🌱  I’m interested in data analysis, software engineering, and machine learning.
 
 👀  My hobbies are playing table tennis and making clay crafts.
 
